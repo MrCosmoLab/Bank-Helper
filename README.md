@@ -1,9 +1,9 @@
 # Bank Helper
 ![](https://www.blast.hk/attachments/155176/)
 ____
-[Скачать автоматический установщик](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Bank%20Helper.exe?raw=true)
+[Скачать автоматический установщик](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Setup.exe?raw=true)
 
-[Скачать архив для ручной установки](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Bank%20Helper.rar?raw=true)
+[Скачать архив для ручной установки](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Files.rar?raw=true)
 ____
 ## Оглавление
 
@@ -50,12 +50,12 @@ ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Автоматическая установка
-[Скачайте и запустите файл](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Bank%20Helper.exe?raw=true) (который просто распаковывает файлы, никакой рекламы, папок в меню «Пуск», ярлыков и прочего он не создаёт и не добавляет), для установки необходимо лишь запустить его и выбрать папку с игрой (там, где находится файл gta_sa.exe).
+[Скачайте и запустите файл](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Setup.exe?raw=true) (который просто распаковывает файлы, никакой рекламы, папок в меню «Пуск», ярлыков и прочего он не создаёт и не добавляет), для установки необходимо лишь запустить его и выбрать папку с игрой (там, где находится файл gta_sa.exe).
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Ручная установка
-[Скачайте архив](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Bank%20Helper.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0) или воспользоваться [автоматическим установщиком](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Bank%20Helper.exe?raw=true).
+[Скачайте архив](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Files.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0) или воспользоваться [автоматическим установщиком](https://github.com/MrCosmoLab/Bank-Helper/blob/main/Setup.exe?raw=true).
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
